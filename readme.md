@@ -9,7 +9,7 @@
 - [XLU: XNLI, XLM, XLM-R (English)](notes/XLU.md)
 - [Meena (English)](notes/Meena.md)
 
-## clova paper-reading list [paper list](https://clova-ai.blog/publication-list/)
+## [clova paper-reading list](https://clova-ai.blog/publication-list/)
 
 - GPT3Mix: Leveraging Large-scale Language Models for Text Augmentation  
 - Length-Adaptive Transformer: Train Once with Length Drop, Use Anytime with Search
@@ -30,7 +30,7 @@
 - Context-Aware Answer Extraction in Question Answering
 
 
-## [황승원 교수님 paper-reading list] (http://dilab.yonsei.ac.kr/publications.php)
+## [황승원 교수님 paper-reading list](http://dilab.yonsei.ac.kr/publications.php)
 
 
 - C2L: Causally Contrastive Learning for Robust Text Classification. AAAI 2022
@@ -41,12 +41,12 @@
 - SCOPA: Soft Code-Switching and Pairwise Alignment for Zero-Shot Cross-lingual Transfer. 
 
 
-## [오혜연 교수님 paper-reading list] (http://uilab.kr/)
+## [오혜연 교수님 paper-reading list](http://uilab.kr/)
 - Efficient Contrastive Learning via Novel Data Augmentation and Curriculum Learning
 - Mitigating Language-Dependent Ethnic Bias in BERT
 - Knowledge-Enhanced Evidence Retrieval for Counterargument Generation
 
-## [맹성현 교수님 paper-reading list] (http://ir.kaist.ac.kr/research/papers/)
+## [맹성현 교수님 paper-reading list](http://ir.kaist.ac.kr/research/papers/)
 
 -  Can You Distinguish Truthful from Fake Reviews? User Analysis and Assistance Tool for Fake Review Detection
 -  Leveraging Order-Free Tag Relations for Context-Aware Recommendation
