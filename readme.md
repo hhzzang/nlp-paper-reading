@@ -9,12 +9,9 @@
 - [XLU: XNLI, XLM, XLM-R (English)](notes/XLU.md)
 - [Meena (English)](notes/Meena.md)
 
-## clova paper-reading list
-- [paper list](https://clova-ai.blog/publication-list/)
+## clova paper-reading list [paper list](https://clova-ai.blog/publication-list/)
 
-
-
-- GPT3Mix: Leveraging Large-scale Language Models for Text Augmentation
+- GPT3Mix: Leveraging Large-scale Language Models for Text Augmentation  
 - Length-Adaptive Transformer: Train Once with Length Drop, Use Anytime with Search
 - Reward Optimization for Neural Machine Translation with Learned Metrics
 - Integration of Pre-trained Networks with Continuous Token Interface for End-to-End Spoken Language Understanding
