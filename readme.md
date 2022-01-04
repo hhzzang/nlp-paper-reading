@@ -31,7 +31,7 @@
 - Context-Aware Answer Extraction in Question Answering
 
 
-## 황승원 교수님 paper-reading list
+## [황승원 교수님 paper-reading list] (http://dilab.yonsei.ac.kr/publications.php)
 
 
 - C2L: Causally Contrastive Learning for Robust Text Classification. AAAI 2022
@@ -42,4 +42,14 @@
 - SCOPA: Soft Code-Switching and Pairwise Alignment for Zero-Shot Cross-lingual Transfer. 
 
 
+## [오혜연 교수님 paper-reading list] (http://uilab.kr/)
+- Efficient Contrastive Learning via Novel Data Augmentation and Curriculum Learning
+- Mitigating Language-Dependent Ethnic Bias in BERT
+- Knowledge-Enhanced Evidence Retrieval for Counterargument Generation
 
+## [맹성현 교수님 paper-reading list] 
+
+-  Can You Distinguish Truthful from Fake Reviews? User Analysis and Assistance Tool for Fake Review Detection
+-  Leveraging Order-Free Tag Relations for Context-Aware Recommendation
+-  Have You Seen That Number? Investigating Extrapolation in Question Answering Models 
+-  Ultra-High Dimensional Sparse Representations with Binarization for Efficient Text Retrieval
