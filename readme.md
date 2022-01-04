@@ -1,6 +1,4 @@
-# kakaobrain/nlp-paper-reading
-
-## Papers
+## kakaobrain/nlp-paper-reading Papers
 
 - 2020.07.22 [Balancing Training for Multilingual NMT](notes//Balancing_Training_for_Multilingual_NMT.md)
 - 2020.07.22 [TaBERT: Pretraining for Joint Understanding of Textual and Tabular Data](notes//TaBERT.md)
@@ -11,5 +9,6 @@
 - 2020.03.25 [XLU: XNLI, XLM, XLM-R (English)](notes/XLU.md)
 - 2020.02.05 [Meena (English)](notes/Meena.md)
 
-
+## clova paper-reading list
+- [paper list](https://clova-ai.blog/publication-list/)
 
