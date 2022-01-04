@@ -46,7 +46,7 @@
 - Mitigating Language-Dependent Ethnic Bias in BERT
 - Knowledge-Enhanced Evidence Retrieval for Counterargument Generation
 
-## [맹성현 교수님 paper-reading list] 
+## [맹성현 교수님 paper-reading list] (http://ir.kaist.ac.kr/research/papers/)
 
 -  Can You Distinguish Truthful from Fake Reviews? User Analysis and Assistance Tool for Fake Review Detection
 -  Leveraging Order-Free Tag Relations for Context-Aware Recommendation
